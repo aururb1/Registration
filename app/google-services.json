@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "501865883056",
+    "firebase_url": "https://registration-1338e.firebaseio.com",
+    "project_id": "registration-1338e",
+    "storage_bucket": "registration-1338e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501865883056:android:9547bc28534ca3b7",
+        "android_client_info": {
+          "package_name": "com.example.urbon.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501865883056-vfer2q46g2igstvhtist8pbfsi4hqmui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKik1O2qOR06O6nn73vwF8dlChzYV5bE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
